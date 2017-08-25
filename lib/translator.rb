@@ -4,7 +4,7 @@ def load_library(path)
   # code goes here
   emoticons = YAML.load_file('./lib/emoticons.yml')
   emoticons = {'get_meaning' => nil,
-                'get_emoticon' = > nil
+                'get_emoticon' => nil
 
   }
 end
